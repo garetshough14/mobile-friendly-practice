@@ -1,0 +1,17 @@
+h1{
+    text-align: center;
+    background-color: #ef767a;
+    color: #456990;
+}
+@media only screen and (min-width: 550px){
+    body h1{
+    background-color: #49beaa;
+    color: #49dcb1;
+    }
+}
+@media only screen and (max-width: 550px){
+    body h1{
+        background-color: #ef767a;
+        color: #456990;
+    }
+}
